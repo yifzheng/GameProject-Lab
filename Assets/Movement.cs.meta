@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f91f8b7a5b94be741bb052a48bbd4b31
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rigid: {instanceID: 0}
+  - dart: {fileID: 4176107576407680478, guid: 7c21d3ca74bef794a94c15c4b9563e38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
